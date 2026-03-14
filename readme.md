@@ -3,3 +3,6 @@
 - Terceiro wip
 
 # Agora criando o feature
+- esse commit foi com wip
+- esse commit foi com wip 2
+- esse commit foi com wip 3
