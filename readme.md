@@ -6,3 +6,8 @@
 - esse commit foi com wip
 - esse commit foi com wip 2
 - esse commit foi com wip 3
+
+# Agora criando feature com --soft
+- esse commit foi com wip
+- esse commit foi com wip 2
+- esse commit foi com wip 3
